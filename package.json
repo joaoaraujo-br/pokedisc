@@ -1,0 +1,15 @@
+{
+  "name": "pokedisc",
+  "version": "1.0.0",
+  "description": "Pokedex for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Araujo de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
